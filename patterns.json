@@ -1,0 +1,10 @@
+[
+    {
+        "feature": "verbs",
+        "regex": "\b(ha(ve|d)|a(m|re)|\bbe(en)?\b|d(o(ne)?|id)|s(ay|aid|een)|th(ink|ought))\b"
+    },
+    {
+        "feature": "integers",
+        "regex": "^[-+]?\\d+$"
+    }
+]
